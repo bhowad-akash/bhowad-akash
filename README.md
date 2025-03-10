@@ -1,6 +1,15 @@
-## 👋Hi there!  
+## 👋 Hey there! I'm [Your Name]
+I'm a data-driven professional with expertise in Business Operations and Marketing Analytics, passionate about leveraging data to optimize efficiency and drive strategic decisions.
 
-I'm a Data-driven professional with expertise in Business Operations and Marketing Analytics, skilled at leveraging data to optimise operational efficiency and achieve business objectives. Proficient in Python, SQL, Tableau, and Power BI, with a proven ability to translate complex datasets into actionable insights for stakeholders and clients. Committed to applying database, analytical, and visualisation skills to enhance strategic decision-making and drive business growth. <br />
+💡 What I Do:
+🔹 Transform complex datasets into actionable insights for businesses
+🔹 Optimize operational efficiency using data analytics
+🔹 Build interactive dashboards and reports for data visualization
+
+🛠 Tech Stack:
+📌 Python | SQL | Tableau | Power BI
+
+🚀 Always eager to apply my data, analytical, and visualization skills to solve real-world problems and fuel business growth. Let’s connect and collaborate! <br />
 <!--
 **bhowad-akash/bhowad-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
