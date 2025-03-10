@@ -1,9 +1,9 @@
-## 👋 Hey there! I'm [Your Name]
+## 👋 Hey there! I'm Akash
 I'm a data-driven professional with expertise in Business Operations and Marketing Analytics, passionate about leveraging data to optimize efficiency and drive strategic decisions.
 
 💡 What I Do:
-🔹 Transform complex datasets into actionable insights for businesses
-🔹 Optimize operational efficiency using data analytics
+🔹 Transform complex datasets into actionable insights for businesses<br /> 
+🔹 Optimize operational efficiency using data analytics<br />
 🔹 Build interactive dashboards and reports for data visualization
 
 🛠 Tech Stack:
