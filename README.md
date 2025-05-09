@@ -13,7 +13,7 @@ Python | R | SQL | Power BI | Tableau | Looker Studio | Excel (Advanced) | AWS (
 
 🚀 I’m passionate about solving real-world problems through data and helping organisations become more data-driven.  
 
-📫 **Let’s connect and collaborate!**
+📫 **Let’s connect and collaborate!**<br>
 [LinkedIn](https://www.linkedin.com/in/akash-bhowad/) | [Portfolio](https://akashbhowad09.wixsite.com/portfolio) | [GitHub](https://github.com/bhowad-akash)
 
 ---
