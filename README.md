@@ -14,7 +14,7 @@ Python | R | SQL | Power BI | Tableau | Looker Studio | Excel (Advanced) | AWS (
 🚀 I’m passionate about solving real-world problems through data and helping organisations become more data-driven.  
 
 📫 **Let’s connect and collaborate!**<br>
-[LinkedIn](https://www.linkedin.com/in/akash-bhowad/) | [Portfolio](https://akashbhowad09.wixsite.com/portfolio) | [GitHub](https://github.com/bhowad-akash)
+[LinkedIn](https://www.linkedin.com/in/akash-bhowad/) | [Portfolio](https://akashbhowad09.wixsite.com/portfolio)
 
 ---
 
@@ -31,12 +31,6 @@ Interactive Tableau dashboard visualising sales, profitability, and customer seg
 **🔷 Strategic Customer Segmentation for Enhanced Sales and Sustainability**  
 Built a customer segmentation model using Python (pandas, scikit-learn, K-means) to target high-value and eco-conscious customers. Increased engagement by ~15% and cross-sell revenue by ~10%.  
 👉 [View Repository](https://github.com/bhowad-akash/Customer_Segmentation_for_Enhanced_Sustainability_and_Sales)
-
----
-
-📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/akash-bhowad/) | [Portfolio](https://akashbhowad09.wixsite.com/portfolio) | [GitHub](https://github.com/bhowad-akash)
-
 <!--
 **bhowad-akash/bhowad-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
