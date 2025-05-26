@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Akash
 
-I’m a results-driven **Data Analyst** with an MSc in Data Science and Analytics from Cardiff University and a passion for transforming data into meaningful insights that drive business impact.
+I’m a results-driven **Data Enthusiast** with an MSc in Data Science and Analytics from Cardiff University and a passion for transforming data into meaningful insights that drive business impact.
 
 💡 **What I do:**  
 - Analyse complex datasets using Python, R, and SQL to uncover trends and support strategic decisions  
